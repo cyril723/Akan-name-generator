@@ -21,7 +21,7 @@ https://cyril723.github.io/Akan-name-generator/
 1. Clone the repository and open the project locally: https://github.com/cyril723/Akan-name-generator 
 2. cd Akan-name-generator.
 3. open index.html.
-4. install the accessories.
+4. npm install
 
 ### Behaviour Driven Developments
 

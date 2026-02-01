@@ -36,6 +36,9 @@ https://cyril723.github.io/Akan-name-generator/
    
    #### Scenario 3
    If a person fails to input the correct gender birth date details, an alert is sent to inform the user to check their details again and input them correctly.
+
+   #### Scenario 4
+   If a person inputs the correct date and gender, on clicking the button stating the 'Generating the Akan name', the user gets the Akan name.
    
 ### Usage
 1. Enter your correct birth date in the provided section.

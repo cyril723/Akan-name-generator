@@ -14,9 +14,12 @@ for both genders and the days of the week they were born.
 3. javascript
 4. git
 5. gh.pages for deployment
+   
+### Live link 
+
 
 ### Installation
-1. Clone the repository and open the project locally:
+1. Clone the repository and open the project locally: https://github.com/cyril723/Akan-name-generator 
 2. cd Akan-name-generator.
 3. open index.html.
 4. install the accessories.

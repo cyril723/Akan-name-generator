@@ -16,8 +16,7 @@ for both genders and the days of the week they were born.
 5. gh.pages for deployment
    
 ### Live link 
-
-
+https://cyril723.github.io/Akan-name-generator/
 ### Installation
 1. Clone the repository and open the project locally: https://github.com/cyril723/Akan-name-generator 
 2. cd Akan-name-generator.

@@ -21,6 +21,15 @@ cd Akan-name-generator
 open index.html
 install the accessories
 
+### Behaviour Driven Developments
+1. ##### Feature
+   A person interested in the Ghanaian Akan culture can obtain their Akan name by putting in their birth date and their gender giving them their Akan name.
+   ##### Scenario 1
+   If a  person is male, they fill in their birth date details and below it select their gender. They will then be able to obtain their akan name based on the day of the week by clicking the button stating: 'Generate Akan name'.
+   #### Scenario 2
+   
+
+
 ### Usage
 1. Enter your correct birth date in the provided section.
 2. Enter your gender in the provided space below the date.

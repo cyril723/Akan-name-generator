@@ -16,10 +16,10 @@ for both genders and the days of the week they were born.
 5. gh.pages for deployment
 
 ### Installation
-Clone the repository and open the project locally:
-cd Akan-name-generator
-open index.html
-install the accessories
+1. Clone the repository and open the project locally:
+2. cd Akan-name-generator.
+3. open index.html.
+4. install the accessories.
 
 ### Behaviour Driven Developments
 
